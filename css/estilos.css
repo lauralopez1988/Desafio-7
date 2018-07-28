@@ -1,0 +1,21 @@
+body {
+	background: #470063;
+}
+
+#fondo {
+	color: white;
+}
+
+.title {
+	color: #00FFFF;
+}
+
+nav ul li a {
+	color: lightblue;
+}
+
+.title {
+	font-family: 'Lobster', cursive;
+}
+
+
